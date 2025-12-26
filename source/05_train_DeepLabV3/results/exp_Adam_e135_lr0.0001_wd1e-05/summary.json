@@ -1,0 +1,40 @@
+{
+  "tag": "Adam_e135_lr0.0001_wd1e-05",
+  "paths": {
+    "exp_dir": "/home/joan_ds/Sandbox/UOC/TFM/train_DeepLabV3/exp_Adam_e135_lr0.0001_wd1e-05",
+    "best_ckpt": "/home/joan_ds/Sandbox/UOC/TFM/train_DeepLabV3/exp_Adam_e135_lr0.0001_wd1e-05/best.pth",
+    "train_log": "/home/joan_ds/Sandbox/UOC/TFM/train_DeepLabV3/exp_Adam_e135_lr0.0001_wd1e-05/train_log.jsonl"
+  },
+  "hyperparams": {
+    "optimizer": "Adam",
+    "epochs": 135,
+    "lr_backbone": 0.0001,
+    "lr_head_multiplier": 10.0,
+    "weight_decay": 1e-05,
+    "seed": 1337,
+    "early_stopping": {
+      "monitor": "val_loss",
+      "patience": 20
+    }
+  },
+  "duration_seconds": 3405.87,
+  "metrics": {
+    "train_loss_mean": 0.26789776547272875,
+    "train_loss_last": 0.08739481630635126,
+    "best_val_mIoU": 0.5443127585322868,
+    "best_epoch": 27,
+    "best_val_loss": 0.5283243431599418,
+    "per_class_IoU": {
+      "sidewalk_tiles": 0.8777263552793508,
+      "sidewalk_asphalt": 0.3562840862350554,
+      "roadway": 0.6377474034665503,
+      "curb_edge": 0.5163471654776274,
+      "drainage_inlet": 0.42604702738051237,
+      "gutter": 0.4688246075881012,
+      "access_cover": 0.4496907031252064,
+      "tree_pit": 0.527175701725516,
+      "vegetation": 0.6233676880161546,
+      "street_furniture": 0.5599168470287943
+    }
+  }
+}
