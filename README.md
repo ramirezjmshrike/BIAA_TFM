@@ -19,36 +19,71 @@ Este paquete está conformado principalmente:
 A continuación también se detallan algunos ejemplos de segmentación obtenidas con el ajuste del modelo DeepLabV3:
 
 <p align="center">
-  <img src="figs/figs/fig_01.jpg" width="650">
+  <img src="figs/fig_01.jpg" width="650">
 </p>
 <p align="center">
-  <em>Figure 1: Ejemplo de segmentación número 1.</em>
-</p>
-
-<p align="center">
-  <img src="figs/figs/fig_02.jpg" width="650">
-</p>
-<p align="center">
-  <em>Figure 2: Ejemplo de segmentación número 2.</em>
+  <em>Figura 1: Ejemplo de segmentación número 1.</em>
 </p>
 
 <p align="center">
-  <img src="figs/figs/fig_03.jpg" width="650">
+  <img src="figs/fig_02.jpg" width="650">
 </p>
 <p align="center">
-  <em>Figure 3: Ejemplo de segmentación número 3.</em>
-</p>
-
-<p align="center">
-  <img src="figs/figs/fig_04.jpg" width="650">
-</p>
-<p align="center">
-  <em>Figure 4: Ejemplo de segmentación número 4.</em>
+  <em>Figura 2: Ejemplo de segmentación número 2.</em>
 </p>
 
 <p align="center">
-  <img src="figs/figs/fig_05.jpg" width="650">
+  <img src="figs/fig_03.jpg" width="650">
 </p>
 <p align="center">
-  <em>Figure 5: Ejemplo de segmentación número 5.</em>
+  <em>Figura 3: Ejemplo de segmentación número 3.</em>
+</p>
+
+<p align="center">
+  <img src="figs/fig_04.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figura 4: Ejemplo de segmentación número 4.</em>
+</p>
+
+<p align="center">
+  <img src="figs/fig_05.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figura 5: Ejemplo de segmentación número 5.</em>
+</p>
+
+<p align="center">
+  <img src="figs/fig_06.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figura 6: Ejemplo de segmentación número 6.</em>
+</p>
+
+<p align="center">
+  <img src="figs/fig_07.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figura 7: Ejemplo de segmentación número 7.</em>
+</p>
+
+<p align="center">
+  <img src="figs/fig_08.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figura 8: Ejemplo de segmentación número 8.</em>
+</p>
+
+<p align="center">
+  <img src="figs/fig_09.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figura 9: Ejemplo de segmentación número 9.</em>
+</p>
+
+<p align="center">
+  <img src="figs/fig_10.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figura 10: Ejemplo de segmentación número 10.</em>
 </p>
