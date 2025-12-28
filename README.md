@@ -16,3 +16,39 @@ Este paquete está conformado principalmente:
 - `toolkit`: Contiene los notebooks que sirvieron para realizar tareas de preprocesamiento para la rasterización de las máscaras o bien para el análisis de los resultados de la anotación manual y posprocesamiento de la preanotación con Segement Anything Model (SAM).
 - `reports`: Incluye la memoria entregada del TFM.
 
+A continuación también se detallan algunos ejemplos de segmentación obtenidas con el ajuste del modelo DeepLabV3:
+
+<p align="center">
+  <img src="figs/figs/fig_01.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figure 1: Ejemplo de segmentación número 1.</em>
+</p>
+
+<p align="center">
+  <img src="figs/figs/fig_02.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figure 2: Ejemplo de segmentación número 2.</em>
+</p>
+
+<p align="center">
+  <img src="figs/figs/fig_03.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figure 3: Ejemplo de segmentación número 3.</em>
+</p>
+
+<p align="center">
+  <img src="figs/figs/fig_04.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figure 4: Ejemplo de segmentación número 4.</em>
+</p>
+
+<p align="center">
+  <img src="figs/figs/fig_05.jpg" width="650">
+</p>
+<p align="center">
+  <em>Figure 5: Ejemplo de segmentación número 5.</em>
+</p>
